@@ -28,7 +28,7 @@ This Data was provided by [HackerEarth](https://www.hackerearth.com/challenges/c
 # Preprocessing data:
 Various Data Preprocessing Techniques are used to Clean the Data.
 - Handled the Categorical data using Target Encoding, Hashmap Encoding and One Hot Encoding.
-- Used Feature Selection for filtering irrelevant or redundent features from given Dataset.
+- Used Feature Selection for filtering irrelevant or redundant features from given Dataset.
 - Extracted informative features from date columns using pandas.
 # Visualization
 - For this part, I have used Seaborn and Matplotlib which are most popular visualisation libraries available.
